@@ -18,7 +18,7 @@ AlgoAlly is available in **4 different ways** - pick what works best for you:
 
 ### 1️⃣ **Web App (Easiest - OpenRouter Only)** ⚡
 
-**👉 [Launch AlgoAlly Web App](https://algoally.streamlit.app)** *(Replace with your actual URL)*
+**👉 [Launch AlgoAlly Web App](https://algoally.streamlit.app)**
 
 - ✅ **No installation** - Works instantly in your browser
 - ✅ **Cross-platform** - Windows, Mac, Linux, Mobile
@@ -32,7 +32,7 @@ AlgoAlly is available in **4 different ways** - pick what works best for you:
 
 ### 2️⃣ **Desktop App - Windows Executable (OpenRouter Only)** 💻
 
-**👉 [Download AlgoAlly.exe](https://github.com/yourusername/AlgoAlly/releases)** *(Replace with your repo)*
+**👉 [Download AlgoAlly.exe](https://github.com/Adiaparmar/AlgoAlly-AI-DSA-Companion/releases)** 
 
 - ✅ **No Python needed** - Standalone executable
 - ✅ **Native Windows app** - Fast and responsive
