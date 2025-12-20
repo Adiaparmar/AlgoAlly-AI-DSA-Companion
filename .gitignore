@@ -1,0 +1,48 @@
+# Environment variables (contains sensitive tokens)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.spec
+build/
+dist/
+*.exe
+*.app
+
+# Model Cache
+models/
+*.bin
+*.safetensors
+.cache/
+
+# Logs
+*.log
