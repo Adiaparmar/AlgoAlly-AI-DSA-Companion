@@ -289,17 +289,33 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support & Links
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/AlgoAlly/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/AlgoAlly/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Adiaparmar/AlgoAlly-AI-DSA-Companion/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Adiaparmar/AlgoAlly-AI-DSA-Companion/discussions)
 - 📖 **Documentation**: [MODEL_GUIDE.md](MODEL_GUIDE.md)
 - 🌐 **Web App**: [algoally.streamlit.app](https://algoally.streamlit.app)
-- 💻 **Desktop App**: [Releases](https://github.com/yourusername/AlgoAlly/releases)
+- 💻 **Desktop App**: [Releases](https://github.com/Adiaparmar/AlgoAlly-AI-DSA-Companion/releases)
 
 ---
 
 ## ⭐ Star History
 
 If you find AlgoAlly helpful, please consider giving it a star! ⭐
+
+---
+
+## 📞 Contact & Support
+
+- **Author**: Adiaparmar
+- **GitHub**: [@Adiaparmar](https://github.com/Adiaparmar)
+- **Project Link**: [DocuMed Repository](https://github.com/Adiaparmar/DocuMed-Medical_AI_Assistant)
+
+### Support
+
+If you encounter any issues or have questions:
+
+1. Check the [Troubleshooting](#-troubleshooting) section
+2. Search [existing issues](https://github.com/Adiaparmar/DocuMed-Medical_AI_Assistant/issues)
+3. Create a [new issue](https://github.com/Adiaparmar/DocuMed-Medical_AI_Assistant/issues/new) with detailed information
 
 ---
 
