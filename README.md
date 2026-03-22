@@ -2,7 +2,7 @@
 
 AlgoAlly is a professional-grade, high-performance AI platform designed specifically for solving Data Structures and Algorithms (DSA) problems. Built with a modern, glassmorphic aesthetic, it helps engineers find the most efficient path from problem to solution.
 
-![AlgoAlly Dashboard](https://algo-ally-ai-dsa-companion.vercel.app)
+[AlgoAlly Dashboard](https://algo-ally-ai-dsa-companion.vercel.app)
 
 ## ✨ Key Features
 
